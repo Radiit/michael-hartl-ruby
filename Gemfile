@@ -75,3 +75,4 @@ group :test do
 end
 
 gem 'sassc-rails'
+gem "will_paginate"

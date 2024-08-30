@@ -115,6 +115,7 @@
     <orderEntry type="library" scope="PROVIDED" name="websocket (v1.2.11, rbenv: 3.1.2 [.project-gemsets]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.7.6, rbenv: 3.1.2 [.project-gemsets]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, rbenv: 3.1.2 [.project-gemsets]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="will_paginate (v4.0.1, rbenv: 3.1.2 [.project-gemsets]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, rbenv: 3.1.2 [.project-gemsets]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.6.17, rbenv: 3.1.2 [.project-gemsets]) [gem]" level="application" />
   </component>
@@ -143,6 +144,8 @@
         <option value="resource" />
         <option value="scaffold" />
         <option value="scaffold_controller" />
+        <option value="scss:assets" />
+        <option value="scss:scaffold" />
         <option value="stimulus" />
         <option value="system_test" />
         <option value="task" />
@@ -173,6 +176,8 @@
         <option value="resource" />
         <option value="scaffold" />
         <option value="scaffold_controller" />
+        <option value="scss:assets" />
+        <option value="scss:scaffold" />
         <option value="stimulus" />
         <option value="system_test" />
         <option value="task" />
